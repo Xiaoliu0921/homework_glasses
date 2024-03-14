@@ -234,13 +234,13 @@ h3{
 	background: white;
 }
 
-.section_item_img1{
+.section3_item_img1{
 	aspect-ratio: 1.45/1;
 	background-image: url(https://github.com/hexschool/2022-web-layout-training/blob/main/week3-4/home-section4-1-sm.png?raw=true);
 	background-size: cover;
 } 
 
-.section_item_img2{
+.section3_item_img2{
 	aspect-ratio: 1.45/1;
 	background-image: url(https://github.com/hexschool/2022-web-layout-training/blob/main/week3-4/home-section4-2-sm.png?raw=true);
 	background-size: cover;
